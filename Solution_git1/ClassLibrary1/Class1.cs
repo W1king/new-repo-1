@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public class Class1
+    public static class Class1
     {
+        public static double Media (double a, double b)
+        {
+           
+            double ris = 0;
+            return ris;
+        }
     }
 }
